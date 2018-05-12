@@ -1,0 +1,82 @@
+{
+	"ws": "ws://112.74.46.50:12002",
+	"wss": "wss://snake1.haotianhuyu.com:8020",
+	"WS_list": "ws://snake1.haotianhuyu.com:12002|ws://139.199.207.155:12002|wss://snake1.haotianhuyu.com:8020|ws://112.74.46.50:12002",
+	"shareURL": "http://120.76.192.13:10009/Enclosure/index.html?roomid=",
+	"platform": "wanba_ts",
+	"http_platform": "https://snake1.haotianhuyu.com:8027/GamePHP/index.php/",
+	"getInfoUrl": "loginCheck/check/",
+	"getHaveUrl": "loginCheck/getPayNum/",
+	"getPayUrl": "loginCheck/OnPay/",
+	"getNote": "GameOp/check/",
+	"sendCandy":"GameOp/giveexpress/",
+	"isDebug": true,
+	"isLog": true,
+	"chatRoomClew": "616216097",
+	"raceName": "1",
+	"raceTime": "01/01-01/31",
+	"normalRestartPrice": 10,
+	"normalRestartTimes": 5,
+	"normalPlayers": 5,
+	"normalLandSize": 3,
+	"teamCount": 4,
+	"teamPlayers": 2,
+	"teamLandSize": 4,
+	"teamModeTime": 30,
+	"deadWaiTime": 6,
+	"heartTime": 20,
+	"roleRandID": 1900,
+	"speedNum": 0.3,
+	"powerAddNum": 0.1,
+	"powerMaxNum": 100,
+	"uidTestList": [
+		103499,
+		104511,
+		104540,
+		104509
+	],
+	"teamAwardList": [
+		3,
+		2,
+		1,
+		0
+	],
+	"raceRule": "   每月都会开启一个新的赛季。在赛季时间内通过团战获得更高段位。赛季结束后根据最终段位发放对应奖励。段位越高，奖励越丰厚。新赛季开始时，玩家段位会清零重计，旧赛季段位将会根据段位继承规则折算到新赛季段位中。旧赛季段位越高，新赛季继承的段位也越高",
+	"taskClew": [
+		"天天领福利，生活有意义！",
+		"更大的面积，更好的自己！",
+		"给我一群朋友，我能瓜分地球!",
+		"全新赛季，群雄并起，谁主沉浮，最强王者！",
+		"集齐关联角色，召唤钻石！"
+	],
+	"shareClew": [
+		"心有多大，城堡就有多大",
+		"朕要打下个大大的江山传给你",
+		"多吃多占，才能拥有一个大大的地盘",
+		"房子小？那是你不够贪！"
+	],
+	"inviteClew": [
+		"房间号: name, 快来等你一战"
+	],
+	"restartClew": [
+		"请你们举请你们举起你们的双手,赐给我一些元气吧！"
+	],
+	"friendResultClew": [
+		"name，跟我斗，你还差得远，回去再练十年吧",
+		"刚刚和 name 打了一架，我没赢，他没输",
+		"name，真阴险，抢我房子占我田",
+		"田地身外物，给你们，都给你们"
+	],
+	"teamResultClew": [
+		"我杀人如麻，你别害怕",
+		"我是杀手马大哈，一天到晚杀杀杀"
+	],
+	"mainSceneTipList": [
+		"欢迎来到贪吃蛇城堡战!  玩家交流QQ群:616216097(点击复制)  "
+	],
+	"createRoomTime": [
+		60,
+		180,
+		300
+	]
+}

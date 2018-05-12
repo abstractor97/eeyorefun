@@ -1,0 +1,24 @@
+{
+"CODE":0,
+"DES":"id:id  title:名称  clew:描述  type:任务类型  event:达成条件  val:达成数量  award:奖励  condtype:后台区分类型  ",
+"DATA":{
+	"list":[
+		{"type":0,"condtype":1,"award":"2|3","title":"每日登录","event":0,"clew":"登陆游戏","id":1,"val":1},
+		{"type":0,"condtype":1,"award":"2|5","title":"分享奖励","event":4,"clew":"分享一次游戏","id":2,"val":1},
+		{"type":1,"condtype":1,"award":"1|1","title":"无尽占领","event":2,"clew":"无尽模式下占领面积达到10%","id":3,"val":10},
+		{"type":1,"condtype":1,"award":"1|1","title":"无尽占领","event":2,"clew":"无尽模式下占领面积达到20%","id":4,"val":20},
+		{"type":1,"condtype":1,"award":"1|1","title":"无尽占领","event":2,"clew":"无尽模式下占领面积达到30%","id":5,"val":30},
+		{"type":1,"condtype":1,"award":"1|2","title":"无尽占领","event":2,"clew":"无尽模式下占领面积达到50%","id":6,"val":50},
+		{"type":1,"condtype":1,"award":"1|2","title":"无尽占领","event":2,"clew":"无尽模式下占领面积达到80%","id":7,"val":80},
+		{"type":1,"condtype":1,"award":"1|3","title":"无尽占领","event":2,"clew":"无尽模式下占领面积达到100%","id":8,"val":100},
+		{"type":2,"condtype":2,"award":"2|2","title":"好友互动","event":3,"clew":"开始一场好友混战","id":9,"val":1},
+		{"type":2,"condtype":2,"award":"2|4","title":"好友互动","event":3,"clew":"开始三场好友混战","id":10,"val":3},
+		{"type":2,"condtype":2,"award":"2|6","title":"好友互动","event":3,"clew":"开始五场好友混战","id":11,"val":5},
+		{"type":2,"condtype":1,"award":"2|2","title":"亲密战场","event":6,"clew":"好友模式下占领面积达到30%","id":12,"val":30},
+		{"type":2,"condtype":1,"award":"2|3","title":"亲密战场","event":6,"clew":"好友模式下占领面积达到50%","id":13,"val":50},
+		{"type":3,"condtype":2,"award":"2|2","title":"升星奖励","event":5,"clew":"段位增加到1颗星","id":14,"val":1},
+		{"type":3,"condtype":2,"award":"2|4","title":"升星奖励","event":5,"clew":"段位增加到3颗星","id":15,"val":3},
+		{"type":3,"condtype":2,"award":"2|6","title":"升星奖励","event":5,"clew":"段位增加到5颗星","id":16,"val":5}
+		]
+	}
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="LoadingBigSkin" width="640" height="1136" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image left="0" right="0" top="0" bottom="0" source=""/>
+	<e:Image horizontalCenter="0" bottom="0" source=""/>
+	<e:Group id="gp_bar_1" anchorOffsetX="0" anchorOffsetY="0" bottom="511" left="0" right="0">
+		<e:Image id="img_bar_bg_1" x="9.5" y="0" source="loadingRes_json.loading_bg_png" scale9Grid="22,3,15,20" width="736"/>
+		<e:Image id="img_bar_1" x="100" source="loadingRes_json.loading_bar_png" y="-1" width="100" scale9Grid="22,7,20,13"/>
+		<e:Image id="img_mask_bar_1" x="10" scaleX="1" scaleY="1" source="loadingRes_json.loading_bar_png" anchorOffsetX="0" width="736.83" y="-1" scale9Grid="23,6,14,15"/>
+	</e:Group>
+	<e:Group id="gp_bar_2" anchorOffsetX="0" anchorOffsetY="0" bottom="488" left="0" right="0">
+		<e:Image id="img_bar_bg_2" y="0.03" source="loadingRes_json.loading_bg_png" scale9Grid="25,8,13,15" width="640" x="0"/>
+		<e:Image id="img_bar_2" scaleX="1" scaleY="1" source="loadingRes_json.loading_bar_png" y="0.35" scale9Grid="26,10,16,11" width="640" x="0"/>
+		<e:Label id="lb_per" text="100%" y="27.71" anchorOffsetX="0" width="147" size="25" horizontalCenter="0.5" textColor="0xffffff" textAlign="center" fontFamily="Microsoft YaHei" bold="true"/>
+		<e:Rect id="thumb" height="30" y="0" anchorOffsetX="0" anchorOffsetY="0" width="640" x="0"/>
+	</e:Group>
+	<e:Group width="637.88" height="39.4" anchorOffsetX="0" anchorOffsetY="0" horizontalCenter="0" bottom="443">
+		<e:Image y="0" scale9Grid="139,5,9,32" left="0" right="0" source=""/>
+		<e:Label id="lb_title" text="title" anchorOffsetX="0" y="0" textAlign="center" left="0" right="0" wordWrap="false" fontFamily="Microsoft YaHei" bold="true"/>
+	</e:Group>
+	<e:Group id="gp_tips" height="40.67" anchorOffsetX="0" anchorOffsetY="0" bottom="545" left="0" right="0">
+		<e:Image id="img_tips_bg" anchorOffsetX="0" top="0" source="" scale9Grid="120,5,36,30" width="640" x="0"/>
+		<e:Label id="lb_tips" text="tips" anchorOffsetX="0" y="4" textAlign="center" left="0" wordWrap="false" fontFamily="Microsoft YaHei" bold="true" right="0"/>
+	</e:Group>
+</e:Skin>

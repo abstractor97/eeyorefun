@@ -1,0 +1,22 @@
+{
+"CODE":0,
+"DES":"id:id  name:名称  sex:性别  ",
+"DATA":{
+	"list":[
+		{"sex":1,"name":"jack","id":2001},
+		{"sex":1,"name":"jack","id":2002},
+		{"sex":1,"name":"jack","id":2003},
+		{"sex":1,"name":"jack","id":2004},
+		{"sex":1,"name":"jack","id":2005},
+		{"sex":1,"name":"jack","id":2006},
+		{"sex":2,"name":"rose","id":2007},
+		{"sex":2,"name":"rose","id":2008},
+		{"sex":2,"name":"rose","id":2009},
+		{"sex":2,"name":"rose","id":2010},
+		{"sex":2,"name":"rose","id":2011},
+		{"sex":2,"name":"rose","id":2012},
+		{"sex":3,"name":"rose","id":2013},
+		{"sex":4,"name":"rose","id":2014}
+		]
+	}
+}

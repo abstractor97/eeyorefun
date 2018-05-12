@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="titleSceneUISkin" width="640" height="1136" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" xmlns:ns1="*">
+	<e:Rect left="0" right="0" top="0" bottom="0"/>
+	<e:Button id="btn_login" label="帐号登录" anchorOffsetX="0" width="192" y="382" skinName="btnBaseSkin1" height="65" horizontalCenter="0">
+	</e:Button>
+	<e:Button id="btn_register" label="帐号注册" anchorOffsetX="0" width="192" y="516.5" skinName="btnBaseSkin2" height="65" horizontalCenter="0">
+	</e:Button>
+	<e:Button id="btn_guest" label="游客登录" anchorOffsetX="0" width="192" y="651.55" skinName="btnBaseSkin3" height="65" horizontalCenter="0">
+	</e:Button>
+</e:Skin>

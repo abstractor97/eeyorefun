@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="headViewSkin" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image x="0.25" y="0" source="commonRes_json.common_bg_head_png" anchorOffsetX="0" width="132.5" anchorOffsetY="0" height="132.5"/>
+	<e:Image id="img_mask" source="commonRes_json.common_bg_head_png" x="0" y="0" anchorOffsetX="0" width="131.75" anchorOffsetY="0" height="131.75"/>
+	<e:Image id="img_head" x="0" y="0" scaleX="0.76" scaleY="0.76" source="headRes_json.head_2001_png"/>
+	<e:Image id="img_rim" source="commonRes_json.common_head_rim_1_png" x="0" y="0"/>
+	<e:Label id="lb_name" text="" y="129" bold="true" textColor="0xfbf341" horizontalCenter="0" size="25" textAlign="center" fontFamily="Microsoft YaHei" height="25" width="129"/>
+</e:Skin>

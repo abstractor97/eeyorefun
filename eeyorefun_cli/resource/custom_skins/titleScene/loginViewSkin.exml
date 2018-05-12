@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="loginViewSkin" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" height="396" width="637">
+	<e:Image source="common_alert_bg_3_png" width="637" x="0" height="364" scale9Grid="197,180,279,131" anchorOffsetY="0" bottom="0"/>
+	<e:Button id="btn_login" label="帐号登录" anchorOffsetX="0" width="192" x="91.6" y="240" skinName="btnBaseSkin1" height="55">
+	</e:Button>
+	<e:Button id="btn_cancel" label="取消" anchorOffsetX="0" width="192" y="240" x="374" skinName="btnBaseSkin2" height="55">
+	</e:Button>
+	<e:Label id="lb_acc" text="acc" x="249" y="111" anchorOffsetX="0" width="303" backgroundColor="0xFFFFFF" background="false" textColor="0xffffff"/>
+	<e:Label id="lb_pw" text="pw" x="250" y="171" anchorOffsetX="0" width="299" backgroundColor="0xFFFFFF" background="false" textColor="0xffffff"/>
+	<e:Label id="lb_title_acc" text="帐号:" x="42" y="110" anchorOffsetX="0" width="180" textAlign="right" fontFamily="Microsoft YaHei" textColor="0xffffff"/>
+	<e:Label id="lb_title_pw" text="密码:" x="42" y="165" anchorOffsetX="0" width="180" textAlign="right" fontFamily="Microsoft YaHei" textColor="0xffffff"/>
+	<e:Label id="lb_title_pw0" text="第三方帐号登录:" x="92" y="347" anchorOffsetX="0" width="228" textAlign="right" fontFamily="Microsoft YaHei" textColor="0xffffff"/>
+	<e:Image source="loginRes_json.login_icon_1_png" x="360.5" y="340"/>
+	<e:Image source="loginRes_json.login_icon_2_png" x="432" y="340"/>
+</e:Skin>

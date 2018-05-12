@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="mainScene" width="640" height="1136" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="bg_jpg" left="0" right="0" top="0" bottom="0"/>
+	<e:Group id="gp_main" left="0" right="0" top="0" bottom="0">
+		<e:Group id="gp_breed" width="200" height="200" x="0" y="21">
+			<e:Button id="btn_breed" label="培育室" scaleX="1" scaleY="1" skinName="btnBaseSkin6" bottom="0" horizontalCenter="0"/>
+		</e:Group>
+		<e:Group id="gp_drill" width="200" height="200" x="220" y="21">
+			<e:Button id="btn_drill" label="训练场" scaleX="1" scaleY="1" bottom="0" horizontalCenter="0" skinName="btnBaseSkin6"/>
+		</e:Group>
+		<e:Group id="gp_store" width="200" height="200" x="270" y="246">
+			<e:Button id="btn_store" label="仓库" scaleX="1" scaleY="1" bottom="0" horizontalCenter="0" skinName="btnBaseSkin6"/>
+		</e:Group>
+		<e:Group id="gp_mine" width="200" height="200" x="440" y="16" scaleX="1" scaleY="1">
+			<e:Button id="btn_mine" label="矿洞" scaleX="1" scaleY="1" bottom="0" horizontalCenter="0" skinName="btnBaseSkin6"/>
+		</e:Group>
+		<e:Group id="gp_study" width="200" height="200" x="486" y="221" scaleX="1" scaleY="1">
+			<e:Button id="btn_study" label="研究所" scaleX="1" scaleY="1" bottom="0" horizontalCenter="0" skinName="btnBaseSkin6"/>
+		</e:Group>
+	</e:Group>
+</e:Skin>

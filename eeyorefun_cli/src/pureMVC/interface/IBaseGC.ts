@@ -1,0 +1,3 @@
+interface IBaseGC{
+   baseGC();
+}

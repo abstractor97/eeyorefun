@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="headRankViewSkin" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Group x="0" scaleX="0.75" scaleY="0.75" y="0">
+		<e:Image id="img_head_bg" x="1" source="rankRes_json.rank_head_bg_png" y="2" scaleX="1" scaleY="1" anchorOffsetX="0" width="101.82" anchorOffsetY="0" height="104.12"/>
+		<e:Image id="img_head_mask" x="1" source="rankRes_json.rank_head_bg_png" y="2" scaleX="1" scaleY="1" anchorOffsetX="0" width="104" anchorOffsetY="0" height="104.12"/>
+		<e:Image id="img_head" x="-0.7" y="0.63" anchorOffsetX="0" anchorOffsetY="0" scaleX="0.6" scaleY="0.6" source="headRes_json.head_2005_png"/>
+		<e:Image id="img_head_rim" x="0" y="1.76" anchorOffsetX="0" width="100.41" anchorOffsetY="0" height="102.66" source="rankRes_json.rank_sort_4_png"/>
+	</e:Group>
+</e:Skin>

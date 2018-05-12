@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="LoadingSmallSkin" width="640" height="1136" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Rect anchorOffsetY="0" left="0" top="0" bottom="0" fillAlpha="0.5" right="0"/>
+	<e:Group height="39.4" anchorOffsetX="0" anchorOffsetY="0" y="747.57" left="300" right="300">
+		<e:Image y="0" source="" left="0" scale9Grid="136,5,9,32" width="40"/>
+		<e:Label id="lb_title" text="title" anchorOffsetX="0" y="5.32" textAlign="center" horizontalCenter="0.5" fontFamily="Microsoft YaHei" bold="true"/>
+	</e:Group>
+	<e:Group id="gp_tips" height="40.67" anchorOffsetX="0" anchorOffsetY="0" y="461.97" left="200" right="200">
+		<e:Image id="img_tips_bg" anchorOffsetX="0" left="0" top="0" source="" scale9Grid="136,5,12,30" width="240"/>
+		<e:Label id="lb_tips" text="tips" anchorOffsetX="0" y="4" textAlign="center" horizontalCenter="0" fontFamily="Microsoft YaHei" bold="true"/>
+	</e:Group>
+	<e:Group id="gp_icon" width="133" height="130" y="612.58" anchorOffsetX="66.2" anchorOffsetY="64.2" horizontalCenter="0.5">
+		<e:Image id="img_icon_1" anchorOffsetX="0" anchorOffsetY="0" horizontalCenter="0" verticalCenter="0" scaleX="1.5" scaleY="1.5" source=""/>
+	</e:Group>
+	<e:Group width="200" y="682.1" anchorOffsetY="0" horizontalCenter="0">
+		<e:Image source="" left="0" right="0" scaleX="1" scaleY="1" bottom="0" scale9Grid="137,5,9,32"/>
+		<e:Label id="lb_per" text="100%" size="25" anchorOffsetX="0" anchorOffsetY="0" height="29" textAlign="center" textColor="0xffffff" scaleX="1" scaleY="1" fontFamily="Microsoft YaHei" bold="true" left="0" right="0" verticalCenter="1.5"/>
+	</e:Group>
+</e:Skin>

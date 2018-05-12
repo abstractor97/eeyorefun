@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<e:Skin class="btnBaseSkin4" states="up,down,disabled" minHeight="50" minWidth="100" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" width="100">
+    <e:Image alpha.disabled="0.5"
+            
+             scale9Grid="4,6,4,4" source="button_down_png"  left="0" right="0" top="0" bottom="0"/>
+    <e:Label id="labelDisplay" left="8" right="8"
+             size="23"
+             verticalAlign="middle" textAlign="center" text="btn" bold="true" fontFamily="Microsoft YaHei" height="39" verticalCenter="-5" textColor="0x724705"/>
+    <e:Image id="iconDisplay" horizontalCenter="0" verticalCenter="0"/>
+
+	<w:Config id="158dddf5a8c" ></w:Config>
+</e:Skin>

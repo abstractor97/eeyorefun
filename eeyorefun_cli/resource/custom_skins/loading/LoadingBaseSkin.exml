@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="LoadingBaseSkin" width="640" height="1136" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Rect anchorOffsetY="0" left="0" top="0" bottom="0" right="0"/>
+	<e:Group width="696" height="152" anchorOffsetX="0" anchorOffsetY="0" horizontalCenter="0" verticalCenter="0">
+		<e:Label id="lb_title" text="标签" anchorOffsetX="0" y="15" textAlign="center" scaleX="1" scaleY="1" textColor="0xfff1df" fontFamily="Microsoft YaHei" left="0" right="0"/>
+		<e:Label id="lb_tips" text="标签" anchorOffsetX="0" y="52" textAlign="center" scaleX="1" scaleY="1" size="25" left="0" right="0" textColor="0xf4b971"/>
+		<e:Group width="418" height="18" y="89" anchorOffsetX="0" anchorOffsetY="0" horizontalCenter="0" x="148" scaleX="1" scaleY="1">
+			<e:Rect fillColor="0x706d6e" left="0" right="0" top="0" bottom="0"/>
+			<e:Rect id="thumb" fillColor="0xfbf5f5" alpha="1" fillAlpha="1" left="0" right="0" top="0" bottom="0"/>
+		</e:Group>
+		<e:Label id="lb_per" text="100%" y="84.83" anchorOffsetX="0" width="85" textAlign="left" x="558.65" textColor="0xf4b971" size="25"/>
+	</e:Group>
+</e:Skin>

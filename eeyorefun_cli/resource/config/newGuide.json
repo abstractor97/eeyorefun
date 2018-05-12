@@ -1,0 +1,26 @@
+{
+"CODE":0,
+"DES":"id:ID  startKeyID:触发操作ID  endKeyID:结束操作ID  c_start:当前步骤开始对游戏控制  c_end:当前步骤结束对游戏控制  clewBtn:提示按钮  eraserShap:镂空区域  arrowPos:鼠标位置  nextID:下一步引导  clew:描述  ",
+"DATA":{
+	"list":[
+		{"clewBtn":"next:546:633","endKeyID":21000,"arrowPos":0,"startKeyID":20001,"c_end":0,"clew":"欢迎来到贪吃蛇城堡战,请点击屏幕,跟我了解一下游戏基本玩法","c_start":0,"id":14001,"eraserShap":0,"nextID":14002},
+		{"clewBtn":0,"endKeyID":21000,"arrowPos":"370:420:tap","startKeyID":21000,"c_end":"event:event_into_normal","clew":0,"c_start":0,"id":14002,"eraserShap":"1:219:170:298:418","nextID":14003},
+		{"clewBtn":"next:546:633","endKeyID":21000,"arrowPos":0,"startKeyID":20003,"c_end":"goOn|touch:0","clew":"方块所在的区域是自己的领土,角色会一直前行,探索新的领地","c_start":"pause|add:0","id":14003,"eraserShap":0,"nextID":14004},
+		{"clewBtn":"next:546:633","endKeyID":21000,"arrowPos":0,"startKeyID":"20004:5","c_end":0,"clew":"移动超出自己的领土后,会生成浅色色块,我们称之为\"探索路径\"","c_start":"pause","id":14004,"eraserShap":0,"nextID":14005},
+		{"clewBtn":"next:546:633","endKeyID":21000,"arrowPos":0,"startKeyID":21000,"c_end":0,"clew":"手指滑动屏幕,可改变移动方向","c_start":0,"id":14005,"eraserShap":0,"nextID":14006},
+		{"clewBtn":0,"endKeyID":"20007:right","arrowPos":"578:258:right","startKeyID":21000,"c_end":"goOn|touch:0","clew":0,"c_start":"touch:1","id":14006,"eraserShap":0,"nextID":14007},
+		{"clewBtn":0,"endKeyID":"20007:down","arrowPos":"578:258:down","startKeyID":"20004:13","c_end":"goOn|touch:0","clew":0,"c_start":"pause|touch:1","id":14007,"eraserShap":0,"nextID":14008},
+		{"clewBtn":0,"endKeyID":"20007:left","arrowPos":"578:258:left","startKeyID":"20004:19","c_end":"goOn|touch:0","clew":0,"c_start":"pause|touch:1","id":14008,"eraserShap":0,"nextID":14009},
+		{"clewBtn":"next:546:633","endKeyID":21000,"arrowPos":0,"startKeyID":20005,"c_end":"goOn|add:1|touch:0","clew":"再次踏上自己的领地时,探索过的区域都将转化为自己的领地","c_start":"pause","id":14009,"eraserShap":0,"nextID":14010},
+		{"clewBtn":0,"endKeyID":"20007:down","arrowPos":"578:258:down","startKeyID":"20004:8","c_end":"goOn|touch:0","clew":0,"c_start":"pause|touch:1","id":14010,"eraserShap":0,"nextID":14011},
+		{"clewBtn":0,"endKeyID":"20007:right","arrowPos":"578:258:right","startKeyID":"20004:10","c_end":"goOn|touch:0","clew":0,"c_start":"pause|touch:1","id":14011,"eraserShap":0,"nextID":14012},
+		{"clewBtn":"next:546:633","endKeyID":21000,"arrowPos":0,"startKeyID":20005,"c_end":"goOn|add:2","clew":"非常棒!探索区域内如果有其他玩家的领地,在重回到自己领地时,也会被抢占过来","c_start":"pause","id":14012,"eraserShap":0,"nextID":14013},
+		{"clewBtn":"next:546:633","endKeyID":21000,"arrowPos":0,"startKeyID":"20004:10","c_end":0,"clew":"改变方向,切断敌人探索路径,完成你的首次击杀","c_start":"pause","id":14013,"eraserShap":0,"nextID":14014},
+		{"clewBtn":0,"endKeyID":"20007:down","arrowPos":"578:258:down","startKeyID":21000,"c_end":"goOn|touch:0","clew":0,"c_start":"touch:1","id":14014,"eraserShap":0,"nextID":14015},
+		{"clewBtn":"next:546:633","endKeyID":21000,"arrowPos":0,"startKeyID":20006,"c_end":0,"clew":"太棒了!你真是一位出色的挑战者.我们也快返回领地吧","c_start":"pause","id":14015,"eraserShap":0,"nextID":14016},
+		{"clewBtn":0,"endKeyID":"20007:left","arrowPos":"578:258:left","startKeyID":21000,"c_end":"goOn|touch:0","clew":0,"c_start":"touch:1","id":14016,"eraserShap":0,"nextID":14017},
+		{"clewBtn":"next:390:540","endKeyID":"20007:up","arrowPos":"578:258:up","startKeyID":"20004:20","c_end":"goOn|touch:0","clew":0,"c_start":"pause|touch:1","id":14017,"eraserShap":0,"nextID":14018},
+		{"clewBtn":"com:720:520","endKeyID":21000,"arrowPos":0,"startKeyID":20005,"c_end":"goOn|add:3|add:4|add:5|add:6|add:7|add:8","clew":"接下来的挑战,我们暂时无法陪伴你了!我相信有一天你能占领整个世界!","c_start":"pause|touch:1","id":14018,"eraserShap":0,"nextID":0}
+		]
+	}
+}

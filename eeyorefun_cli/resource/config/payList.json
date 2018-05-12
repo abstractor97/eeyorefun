@@ -1,0 +1,20 @@
+{
+"CODE":0,
+"DES":"id:id  itemID:itemID  title:名称  diamond:钻石数量  rmb:人民币  award:奖励  type:类型  price:价格(星币)  zoneid:安卓填1，iOS填2  ",
+"DATA":{
+	"list":[
+		{"rmb":6,"itemID":20215,"title":"80钻石","zoneid":1,"diamond":80,"type":1,"id":1,"award":"-","price":60},
+		{"rmb":30,"itemID":20216,"title":"500钻石","zoneid":1,"diamond":500,"type":1,"id":2,"award":"-","price":300},
+		{"rmb":68,"itemID":20217,"title":"1200钻石","zoneid":1,"diamond":1200,"type":1,"id":3,"award":"-","price":680},
+		{"rmb":128,"itemID":20218,"title":"2500钻石","zoneid":1,"diamond":2500,"type":1,"id":4,"award":"-","price":1280},
+		{"rmb":6,"itemID":20219,"title":"80钻石","zoneid":2,"diamond":80,"type":1,"id":5,"award":"-","price":60},
+		{"rmb":30,"itemID":20220,"title":"500钻石","zoneid":2,"diamond":500,"type":1,"id":6,"award":"-","price":300},
+		{"rmb":68,"itemID":20221,"title":"1200钻石","zoneid":2,"diamond":1200,"type":1,"id":7,"award":"-","price":680},
+		{"rmb":128,"itemID":20222,"title":"2500钻石","zoneid":2,"diamond":2500,"type":1,"id":8,"award":"-","price":1280},
+		{"rmb":1,"itemID":22685,"title":"1元礼包","zoneid":1,"diamond":0,"type":2,"id":9,"award":"1:100|2:100|1007:1","price":10},
+		{"rmb":1,"itemID":22686,"title":"1元礼包","zoneid":2,"diamond":0,"type":2,"id":10,"award":"1:100|2:100|1007:1","price":10},
+		{"rmb":0.5,"itemID":24050,"title":"5钻石(测)","zoneid":1,"diamond":5,"type":0,"id":11,"award":"-","price":5},
+		{"rmb":0.5,"itemID":24051,"title":"5钻石(测)","zoneid":2,"diamond":5,"type":0,"id":12,"award":"-","price":5}
+		]
+	}
+}
